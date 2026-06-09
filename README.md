@@ -27,5 +27,5 @@ A simple Arduino project that uses an IR remote to control devices through a rel
 - Voice Commands
 - Mobile App Interface
 
-## Repository
-[https://github.com/piyushkumar002/Embedded-Project-01-IR-Control/]
+## Demo
+[https://youtube.com/shorts/SvgWedZ0DiI]
